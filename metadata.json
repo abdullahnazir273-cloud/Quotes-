@@ -1,0 +1,6 @@
+{
+  "name": "Daily World Quotes",
+  "description": "A beautiful and premium native Android app that displays 20 top English motivational quotes, complete with one-click sharing configurations tailored for WhatsApp and Instagram in a clean, modern dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
